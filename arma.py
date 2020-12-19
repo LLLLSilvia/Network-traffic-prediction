@@ -1,5 +1,4 @@
 #  200比较合适
-# 30  最合适
 import pandas as pd
 import matplotlib.pyplot as plt
 from statsmodels.graphics.tsaplots import plot_acf
